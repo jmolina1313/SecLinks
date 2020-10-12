@@ -8,14 +8,7 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 # CATEGORIES
   1. [HealthCare](#healthcare)
   2. [Blogs](#blogs)
-  3. [Training](#Training)
-  4. [Books](#Books)
-  5. [College Courses (Multi-week w/Enrollment)](#College-Courses)
-  6. [Podcasts](#Podcasts)
-  7. [YouTube Channels](#Cybersecurity-YouTube-Channels)
-  8. [News](#News)
-  9. [Professional Networking / (Virtual) Meetups (Discord/Slack Groups)](#Professional-Networking)
-  10. [References / Tools / Cheat Sheets](#ReferencesToolsCheat-Sheets)
+  3. [DFIR] (#dfir)
   
 ## healthcare
 
@@ -24,6 +17,10 @@ https://www.hipaajournal.com/
 ## blogs
 
 https://www.anomali.com/blog
+
+## dfir
+
+https://thedfirreport.com/
 
 
 ### October
