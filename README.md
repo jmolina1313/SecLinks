@@ -7,7 +7,7 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 
 # CATEGORIES
   1. [HealthCare](#healthcare)
-  2. [Instructor Led Webinar/Labs/Workshops](#Instructor-Led-WebinarLabsWorkshops)
+  2. [Blogs](#blogs)
   3. [Training](#Training)
   4. [Books](#Books)
   5. [College Courses (Multi-week w/Enrollment)](#College-Courses)
@@ -18,7 +18,12 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
   10. [References / Tools / Cheat Sheets](#ReferencesToolsCheat-Sheets)
   
 ## healthcare
+
 https://www.hipaajournal.com/
+
+## blogs
+
+https://www.anomali.com/blog
 
 
 ### October
