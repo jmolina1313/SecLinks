@@ -9,6 +9,7 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
   1. [HealthCare](#healthcare)
   2. [Blogs](#blogs)
   3. [DFIR] (#dfir)
+  4. [RYUK] (#ryuk)
   
 ## healthcare
 
@@ -23,6 +24,10 @@ https://www.anomali.com/blog
 https://thedfirreport.com/
 
 https://jpcertcc.github.io/ToolAnalysisResultSheet/
+
+## ryuk
+
+https://thedfirreport.com/2020/10/18/ryuk-in-5-hours/
 
 
 ### October
