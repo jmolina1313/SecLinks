@@ -8,8 +8,8 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 # CATEGORIES
   1. [HealthCare](#healthcare)
   2. [Blogs](#blogs)
-  3. [DFIR] (#dfir)
-  4. [RYUK] (#ryuk)
+  3. [DFIR](#dfir)
+  4. [RYUK](#ryuk)
   
 ## healthcare
 
