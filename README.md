@@ -21,6 +21,7 @@ https://www.anomali.com/blog
 ## dfir
 
 https://thedfirreport.com/
+https://jpcertcc.github.io/ToolAnalysisResultSheet/
 
 
 ### October
