@@ -40,6 +40,8 @@ https://github.com/yeyintminthuhtut/Awesome-Red-Teaming#-training--free-
 
 https://idart.sandia.gov/_assets/documents/2017-09-13_Metrics_QRS-Paper-Size.pdf
 
+https://www.isecom.org/research.html#content5-9d
+
 ## osint
 
 https://osintframework.com/
