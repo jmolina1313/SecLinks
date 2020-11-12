@@ -11,7 +11,7 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
   3. [DFIR](#dfir)
   4. [RYUK](#ryuk)
   5. [RedTeam](#redteam)
-  6. [OSINT] (#osint)
+  6. [OSINT](#osint)
   
 ## healthcare
 
