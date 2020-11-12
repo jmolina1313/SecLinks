@@ -13,6 +13,8 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
   5. [RedTeam](#redteam)
   6. [OSINT](#osint)
   7. [PenTesting](#pen)
+  8. [OWASP](#owasp)
+  
 ## healthcare
 
 https://www.hipaajournal.com/
@@ -43,6 +45,11 @@ https://osintframework.com/
 ## pen
 
 http://www.pentest-standard.org/index.php/Main_Page
+
+## owasp
+
+https://owasp.org/www-project-web-security-testing-guide/
+
 
 
 
