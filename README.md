@@ -37,6 +37,7 @@ https://thedfirreport.com/2020/10/18/ryuk-in-5-hours/
 ## redteam
 
 https://github.com/yeyintminthuhtut/Awesome-Red-Teaming#-training--free-
+https://idart.sandia.gov/_assets/documents/2017-09-13_Metrics_QRS-Paper-Size.pdf
 
 ## osint
 
