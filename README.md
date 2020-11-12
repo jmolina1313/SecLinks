@@ -12,7 +12,7 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
   4. [RYUK](#ryuk)
   5. [RedTeam](#redteam)
   6. [OSINT](#osint)
-  
+  7. [PenTesting](#pen)
 ## healthcare
 
 https://www.hipaajournal.com/
@@ -39,6 +39,12 @@ https://github.com/yeyintminthuhtut/Awesome-Red-Teaming#-training--free-
 ## osint
 
 https://osintframework.com/
+
+## pen
+
+http://www.pentest-standard.org/index.php/Main_Page
+
+
 
 
 
